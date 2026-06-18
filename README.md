@@ -288,28 +288,20 @@ Use Jacksonville (Florida) and the East Region as internal benchmarks for succes
 ```text
 project/
 │
-├── data/
-│   ├── raw_data.csv
-│   └── cleaned_data.csv
+├── superstore.csv
 │
-├── notebooks/
-│   ├── data_cleaning.ipynb
-│   ├── exploratory_data_analysis.ipynb
-│   └── database_integration.ipynb
-│
+├── Regional_Sales_Analysis.ipynb
+|
 ├── sql/
-│   ├── region_analysis.sql
-│   ├── state_analysis.sql
-│   └── city_analysis.sql
+│   ├── 01_layer1_region.sql
+│   ├── 02_layer2_state.sql
+│   ├── 03_layer3_city.sql
+│   ├── kpi_sales_performance.sql
+│   └── view.sql
 │
-├── dashboard/
-│   └── regional_sales_dashboard.pbix
+├── regional_sales_dashboard.pbix
 │
-├── reports/
-│   └── regional_sales_performance_analysis.pdf
-│
-├── presentation/
-│   └── executive_presentation.pdf
+├── regional_sales_performance_analysis.pdf
 │
 └── README.md
 ```
@@ -321,7 +313,7 @@ project/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/vincent-colin-tionando/regional-sales-performance-analysis.git
+git clone https://github.com/vincent-colin-tionando/regional-sales-analysis.git
 ```
 
 ### 2. Install Dependencies
@@ -351,7 +343,7 @@ Run SQL files in PostgreSQL:
 Open:
 
 ```text
-dashboard/regional_sales_dashboard.pbix
+regional_sales_dashboard.pbix
 ```
 
 Refresh data connections if required.
