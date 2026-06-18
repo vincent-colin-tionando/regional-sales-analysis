@@ -29,7 +29,7 @@ Instead of reviewing thousands of transactions individually, this project develo
 
 ### Source
 
-Supermarket Sales Dataset
+Superstore Sales Dataset
 
 ### Dataset Summary
 
