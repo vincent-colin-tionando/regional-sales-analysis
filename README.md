@@ -302,6 +302,8 @@ project/
 │
 ├── regional_sales_performance_analysis.pdf
 │
+├── Regional-Sales-Performance-Analysis.pptx
+|
 └── README.md
 ```
 
