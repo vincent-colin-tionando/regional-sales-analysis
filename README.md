@@ -71,15 +71,14 @@ Superstore Sales Dataset
 
 ## Tools & Technologies
 
-| Tool             | Purpose                               |
-| ---------------- | ------------------------------------- |
-| Python           | Data Cleaning & EDA                   |
-| Pandas           | Data Manipulation                     |
-| PostgreSQL       | Data Storage & SQL Analysis           |
-| SQL              | KPI Calculation & Drill-Down Analysis |
-| Power BI         | Dashboard Development                 |
-| Gamma            | Executive Presentation                |
-| Jupyter Notebook | Analysis Environment                  |
+| Tool              | Usage                           |
+|-------------------|---------------------------------|
+| Python (Pandas)   | Data cleaning and preprocessing |
+| Jupyter Notebook  | Exploratory data analysis (EDA) |
+| PostgreSQL        | Database management             |
+| SQL               | KPI and sales analysis          |
+| Power BI          | Dashboard development           |
+| Gamma AI          | Presentation creation           |
 
 ---
 
