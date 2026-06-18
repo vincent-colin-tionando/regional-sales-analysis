@@ -321,7 +321,7 @@ project/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/regional-sales-performance-analysis.git
+git clone https://github.com/vincent-colin-tionando/regional-sales-performance-analysis.git
 ```
 
 ### 2. Install Dependencies
